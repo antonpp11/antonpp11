@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**antonpp11/antonpp11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**antonpp11/antonpp11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
+<!--
 <a href="https://github.com/antonpp11?tab=repositories">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonpp11&layout=compact" />
-</a>
+  <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonpp11&layout=compact" />
+</a>-->
+
